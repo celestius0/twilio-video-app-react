@@ -1,5 +1,5 @@
 {
-  "name": "twilio-video-app-react",
+  "name": "@alucio/twilio-video",
   "version": "0.1.0",
   "private": true,
   "license": "Apache-2.0",
@@ -104,5 +104,17 @@
     "snapshotSerializers": [
       "enzyme-to-json/serializer"
     ]
-  }
+  },
+  "main": "lib/exports.js",
+  "description": "[![CircleCI](https://circleci.com/gh/twilio/twilio-video-app-react.svg?style=svg)](https://circleci.com/gh/twilio/twilio-video-app-react)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/celestius0/twilio-video-app-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/celestius0/twilio-video-app-react/issues"
+  },
+  "homepage": "https://github.com/celestius0/twilio-video-app-react#readme"
 }
