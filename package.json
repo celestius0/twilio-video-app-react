@@ -117,5 +117,7 @@
     "url": "https://github.com/celestius0/twilio-video-app-react/issues"
   },
   "homepage": "https://github.com/celestius0/twilio-video-app-react#readme",
-  "files": ["lib/**/*"]
+  "files": [
+    "lib/**/*"
+  ]
 }

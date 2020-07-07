@@ -1,5 +1,15 @@
 {
+
+  
+  
+
   "compilerOptions": {
+
+
+    "declaration": true,
+    "outDir": "./lib",
+    
+
     "target": "es6",
     "lib": [
       "dom",
@@ -24,5 +34,6 @@
   },
   "include": [
     "src"
-  ]
+  ],
+  "exclude": ["node_modules", "**/__tests__/*"]
 }
