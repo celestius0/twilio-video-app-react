@@ -33,3 +33,5 @@ junit.xml
 
 # Compiled output
 /lib
+
+/tmp

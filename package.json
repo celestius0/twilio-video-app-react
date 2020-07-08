@@ -106,7 +106,7 @@
       "enzyme-to-json/serializer"
     ]
   },
-  "main": "lib/exports.js",
+  "main": "lib/index.js",
   "description": "[![CircleCI](https://circleci.com/gh/twilio/twilio-video-app-react.svg?style=svg)](https://circleci.com/gh/twilio/twilio-video-app-react)",
   "repository": {
     "type": "git",
