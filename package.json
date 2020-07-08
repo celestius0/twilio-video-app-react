@@ -66,6 +66,7 @@
     "start": "concurrently npm:server npm:dev",
     "dev": "react-scripts start",
     "build": "tsc",
+    "prepare": "npm run build",
     "build-twilio": "node ./scripts/build.js",
     "test": "jest",
     "eject": "react-scripts eject",
